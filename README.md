@@ -9,3 +9,5 @@ Conflict fixed for second time.
 Branch management strategy.
 
 Git is a free software ...
+
+There's branch dev.

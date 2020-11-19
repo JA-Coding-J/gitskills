@@ -1,2 +1,3 @@
 init
+author: Kaffe
 comment: this is a comment.

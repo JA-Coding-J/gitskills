@@ -1,1 +1,2 @@
+init
 this is another Kaffe's git opperation.

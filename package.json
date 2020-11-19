@@ -1,0 +1,20 @@
+{
+  "name": "gitskills",
+  "version": "1.0.0",
+  "description": "branch test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JA-Coding-J/gitskills.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JA-Coding-J/gitskills/issues"
+  },
+  "homepage": "https://github.com/JA-Coding-J/gitskills#readme"
+}
